@@ -2,4 +2,8 @@
 <resources>
 
   <style name="Theme.AndroidPlayground" parent="android:Theme.Material.Light.NoActionBar" />
+
+  <style name="BottomNavigationView" parent="">
+    <item name="colorPrimary">#FFEB3B</item>
+  </style>
 </resources>
